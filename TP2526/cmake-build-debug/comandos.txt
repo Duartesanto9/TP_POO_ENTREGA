@@ -1,0 +1,10 @@
+entra
+sai
+jardim 10 10
+planta cc r
+planta dd c
+entra aa
+sai
+entra cc
+avanca
+entra cc

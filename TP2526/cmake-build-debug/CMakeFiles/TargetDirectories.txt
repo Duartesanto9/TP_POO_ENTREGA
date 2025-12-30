@@ -1,0 +1,3 @@
+C:/Users/duart/OneDrive/Ambiente de Trabalho/POO/poo_2526_m1_DuarteSantos_2023144379_MarceloManteigas_2023131121 (1)/TP2526/cmake-build-debug/CMakeFiles/TP2526.dir
+C:/Users/duart/OneDrive/Ambiente de Trabalho/POO/poo_2526_m1_DuarteSantos_2023144379_MarceloManteigas_2023131121 (1)/TP2526/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/duart/OneDrive/Ambiente de Trabalho/POO/poo_2526_m1_DuarteSantos_2023144379_MarceloManteigas_2023131121 (1)/TP2526/cmake-build-debug/CMakeFiles/rebuild_cache.dir
